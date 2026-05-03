@@ -1,0 +1,7 @@
+[user]
+	name = TommyBark
+	email = tomas.turlik@gmail.com
+[init]
+	defaultBranch = main
+[push]
+	autoSetupRemote = true

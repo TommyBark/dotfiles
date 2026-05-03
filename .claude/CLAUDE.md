@@ -1,0 +1,2 @@
+- **Python projects** - for python projects use `uv` for venv management, do not install into global python. When running python scripts use `uv` commands like `uv run python`.
+- **Git safety** - Do not run `git commit` or `git push` unless explicitly instructed or confirmed by the user.
